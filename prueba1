@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main () {
+    int num;
+    int numNegativo=0; 
+    // Declaracion de variables
+
+printf("Ingrese los numeros, ingrese 0 para parar \n");
+ //Se pide al usuario ingresar los numeros, aclarandole que ocurre si ingresa el numero 0
+ 
+}
